@@ -10,6 +10,6 @@ Random Padding Generator For C & C++
 5. Give execution permission `chmod +x random-padding.sh`
 6. Run script `./random-padding.sh <value>`
 ## Example
-`root@localhost:~# ./random-padding.sh 128`
-`FIUTQiz6mfjnXNZb3EczAbmZ0b8OLL9K6-hpuznSXbHq0V_tdl8OZfBnOuDoQ_LXRsAydKVNgNrNjTMhFD7yusic3I5NuwREkZAOLG2nfV`
+`root@localhost:~# ./random-padding.sh 64`
+`wulGbon2YBnHYkuvwsWmFZVtfWqg8EqC6MOF9HpUnu7KjvHJ-Szrl`
 `root@localhost:~#`
