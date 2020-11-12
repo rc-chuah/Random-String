@@ -12,4 +12,3 @@ Random Padding Generator For C & C++
 ## Example
 `root@localhost:~# ./random-padding.sh 64`
 `wulGbon2YBnHYkuvwsWmFZVtfWqg8EqC6MOF9HpUnu7KjvHJ-Szrl`
-`root@localhost:~#`
