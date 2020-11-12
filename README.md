@@ -1,2 +1,2 @@
 # Random-Padding
-Random Padding For C &amp; C++
+Random Padding Generator For C & C++
