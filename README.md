@@ -1,4 +1,4 @@
-# Random-String-Generator
+# Random-String
 Random String Generator For C & C++
 
 ## Usage
